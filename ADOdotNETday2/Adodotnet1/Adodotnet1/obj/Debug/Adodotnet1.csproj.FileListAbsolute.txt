@@ -1,0 +1,7 @@
+D:\C#.NET\Adodotnet1\Adodotnet1\bin\Debug\Adodotnet1.exe.config
+D:\C#.NET\Adodotnet1\Adodotnet1\bin\Debug\Adodotnet1.exe
+D:\C#.NET\Adodotnet1\Adodotnet1\bin\Debug\Adodotnet1.pdb
+D:\C#.NET\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.csproj.CoreCompileInputs.cache
+D:\C#.NET\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.exe
+D:\C#.NET\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.pdb
+D:\C#.NET\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.csprojAssemblyReference.cache
